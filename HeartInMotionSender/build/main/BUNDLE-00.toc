@@ -1,0 +1,3 @@
+([('main',
+   '/Users/coding/PycharmProjects/HeartInMotionSender/dist/main',
+   'EXECUTABLE')],)
